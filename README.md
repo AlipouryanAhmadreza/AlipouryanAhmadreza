@@ -1,6 +1,6 @@
-[![MasterHead](https://drive.google.com/file/d/1rdtZ9X-lpr8AoCb9M4FDOARlPfBNI8yG/view?usp=sharing)](https://t.me/AlipouryanAhmadrezaBlog)
+[![MasterHead](https://imgur.com/a/xUQcZ02)](https://t.me/AlipouryanAhmadrezaBlog)
 <h1 align="center">Hi 👋, I'm Ahmadreza Alipouryan</h1>
-<h3 align="center">A Computer Engineer, student at Semnan University. I love math, programming, computers, and cats :)</h3>
+<h3 align="center">A Computer Engineer, student at Semnan University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alipouryanahmadreza&label=Profile%20views&color=0e75b6&style=flat" alt="alipouryanahmadreza" /> </p>
 
